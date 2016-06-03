@@ -404,8 +404,8 @@ color: #ccc;
 
 .inner-bg {
     padding: 0;
-	padding-top: 180px;
-	padding-bottom: 120px;
+	padding-top: 120px;
+	padding-bottom: 60px;
     background-color: rgba(0, 0, 0, 0.6);
 }
 
@@ -1509,11 +1509,6 @@ color: #ccc;
     color: #fff;
 	font-size: 16px;
     line-height: 24px;
-}
-
-.contact-form,
-.contact-address {
-	padding-bottom: 80px;
 }
 
 .form-group h4,
