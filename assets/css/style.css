@@ -26,10 +26,6 @@
   text-align: left;
   min-height: 160px;
   margin-bottom: 21px;
-
-  box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
-  -moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
-  -webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
 }
 
 .methodology-box .header {
